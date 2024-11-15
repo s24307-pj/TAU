@@ -1,11 +1,11 @@
-//package zjazd2;
-//
-//import org.junit.Test;
-//import org.openqa.selenium.By;
-//import org.openqa.selenium.WebElement;
-//import org.junit.Before;
-//import static org.junit.Assert.*;
-//public class OtomotoTest extends BaseTest {
+package zjazd2;
+
+import org.junit.Test;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+import org.junit.Before;
+import static org.junit.Assert.*;
+public class OtomotoTest extends BaseTest {
 //    @Before
 //    public void setUp() {
 //        setUp("chrome");
@@ -60,4 +60,4 @@
 //        WebElement main = driver.findElement(By.tagName("main"));
 //        assertNotNull("Main content should be present", main);
 //    }
-//}
+}

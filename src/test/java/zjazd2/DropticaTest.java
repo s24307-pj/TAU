@@ -1,11 +1,11 @@
-//package zjazd2;
-//
-//import org.junit.Test;
-//import org.openqa.selenium.By;
-//import org.openqa.selenium.WebElement;
-//import org.junit.Before;
-//import static org.junit.Assert.*;
-//public class DropticaTest extends BaseTest {
+package zjazd2;
+
+import org.junit.Test;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+import org.junit.Before;
+import static org.junit.Assert.*;
+public class DropticaTest extends BaseTest {
 //    @Before
 //    public void setUp() {
 //        setUp("chrome");
@@ -58,4 +58,4 @@
 //        WebElement popup = driver.findElement(By.className("d-gtm-scripts-modal"));
 //        assertNotNull("Popup should be present", popup);
 //    }
-//}
+}
